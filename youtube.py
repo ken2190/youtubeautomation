@@ -252,5 +252,5 @@ def __clickonSettings(device):
 
 
 def __closeYoutube(device):
-    print("kranthi")
+    print("Shubham")
     ##device.app_clear('com.google.android.youtube')
